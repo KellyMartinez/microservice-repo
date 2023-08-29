@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:xe
-    password: loja_qa
-    username: admin
+    username: loja_qa
+    password: admin
     driver-class-name: oracle.jdbc.driver.OracleDriver
   jpa:
     hibernate:
