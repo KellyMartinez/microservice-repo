@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:xe
-    password: loja_qa
+    password: system
     username: admin
     driver-class-name: oracle.jdbc.driver.OracleDriver
   jpa:
