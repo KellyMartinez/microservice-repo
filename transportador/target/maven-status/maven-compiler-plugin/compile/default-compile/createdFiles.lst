@@ -1,0 +1,7 @@
+br\microservices\transportador\TransportadorApplication.class
+br\microservices\transportador\model\Entrega.class
+br\microservices\transportador\dto\EntregaDTO.class
+br\microservices\transportador\repository\EntregaRepository.class
+br\microservices\transportador\service\EntregaService.class
+br\microservices\transportador\dto\VoucherDTO.class
+br\microservices\transportador\controller\EntregaController.class
