@@ -1,0 +1,22 @@
+
+server:
+  port: 8888
+
+#apontando para o file system
+#spring:
+#  profiles:
+#    active: native
+#  cloud:
+#    config:
+#      server:
+#        native:
+#          search-locations: c:/microservice-repo
+
+#apontando ara o git
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/KellyMartinez/microservice-repo
+          search-paths: fornecedor, loja
