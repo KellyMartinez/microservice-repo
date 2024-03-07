@@ -1,0 +1,16 @@
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\ResourceServerConfigure.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\client\FornecedorClient.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\InfoEntregaDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\InfoFornecedorDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\InfoPedidoDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\CompraController.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\model\Compra.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\EnderecoDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\ItemCompraDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\CompraDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\LojaApplication.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\repository\CompraRepository.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\service\CompraService.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\client\TransportadorClient.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\controller\dto\VoucherDto.java
+C:\Users\kelly\Documents\Repository\microservice-repo\loja\src\main\java\com\microservices\loja\util\CompraStatus.java

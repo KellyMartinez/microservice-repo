@@ -1,0 +1,3 @@
+com\microservices\AuthApplication.class
+com\microservices\WebSecurityConfigurer.class
+com\microservices\AuthorizationServerConfigurer.class

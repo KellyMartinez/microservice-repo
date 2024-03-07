@@ -1,0 +1,17 @@
+com\microservices\loja\controller\dto\InfoEntregaDto.class
+com\microservices\loja\ResourceServerConfigure.class
+com\microservices\loja\controller\dto\EnderecoDto.class
+com\microservices\loja\controller\dto\InfoFornecedorDto.class
+com\microservices\loja\util\CompraStatus.class
+com\microservices\loja\model\Compra.class
+com\microservices\loja\LojaApplication$1.class
+com\microservices\loja\LojaApplication.class
+com\microservices\loja\client\FornecedorClient.class
+com\microservices\loja\controller\dto\VoucherDto.class
+com\microservices\loja\controller\dto\CompraDto.class
+com\microservices\loja\service\CompraService.class
+com\microservices\loja\controller\dto\ItemCompraDto.class
+com\microservices\loja\repository\CompraRepository.class
+com\microservices\loja\controller\CompraController.class
+com\microservices\loja\controller\dto\InfoPedidoDto.class
+com\microservices\loja\client\TransportadorClient.class
